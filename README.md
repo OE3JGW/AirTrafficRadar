@@ -15,6 +15,11 @@ There is no real benefit of this app, i just wanted to create a more interesting
 - **VLC Media Player installed**
 - I only tested it on windows 11 x64
 
+## Create *.exe file for Windows
+If you want to have it as a *.exe file for windows, use pyinstaller with following command: 
+pyinstaller --noconfirm --onedir --windowed --add-data "airports.json;." AirTrafficRadar.py
+I´ll attach an *.exe Version, but be informed, that MS Defender goes wild on it.. idk why, i guess because of lacking signature.
+
 ## Disclaimer
 This app was built mostly with AI as a fun project for a friend. Im only using publicly avaible data (see features) and combine them in one GUI.
 Do whatever floats your boat with it ^^

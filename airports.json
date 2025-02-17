@@ -1,0 +1,64 @@
+{
+    "airports": [
+        {
+            "label": "LOWW - Vienna International",
+            "icao": "LOWW",
+            "coordinates": {
+                "lat": 48.11851373837315,
+                "lon": 16.563908831827106
+            },
+            "livestream": null,
+            "image": null
+        },
+        {
+            "label": "KLAS - Las Vegas",
+            "icao": "KLAS",
+            "coordinates": {
+                "lat": 36.08036,
+                "lon": -115.15233
+            },
+            "livestream": "https://www.youtube.com/watch?v=d5PtT7KdlKc",
+            "image": null
+        },
+        {
+            "label": "KLAX - Los Angeles",
+            "icao": "KLAX",
+            "coordinates": {
+                "lat": 33.9425,
+                "lon": -118.408056
+            },
+            "livestream": "https://www.youtube.com/watch?v=6PPIjeKaGr8",
+            "image": null
+        },
+        {
+            "label": "KJFK - New York JFK",
+            "icao": "KJFK",
+            "coordinates": {
+                "lat": 40.639751,
+                "lon": -73.778925
+            },
+            "livestream": "https://www.youtube.com/watch?v=Ek8JUyKl8YY",
+            "image": null
+        },
+        {
+            "label": "EDDF - Frankfurt",
+            "icao": "EDDF",
+            "coordinates": {
+                "lat": 50.033333,
+                "lon": 8.570556
+            },
+            "livestream": null,
+            "image": null
+        },
+        {
+            "label": "RJTT - Tokyo Haneda",
+            "icao": "RJTT",
+            "coordinates": {
+                "lat": 35.553333,
+                "lon": 139.781111
+            },
+            "livestream": null,
+            "image": null
+        }
+    ]
+}

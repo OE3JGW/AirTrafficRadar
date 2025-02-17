@@ -16,7 +16,7 @@ There is no real benefit of this app, i just wanted to create a more interesting
 - I only tested it on windows 11 x64
 
 ## Disclaimer
-This app was built mostly with AI as a fun project for a friend. Im only using publicly avaible data (see Features) and combine them in one GUI.
+This app was built mostly with AI as a fun project for a friend. Im only using publicly avaible data (see features) and combine them in one GUI.
 Do whatever floats your boat with it ^^
 
 ## Screenshots

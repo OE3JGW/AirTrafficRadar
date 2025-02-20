@@ -19,7 +19,7 @@ There is no real benefit of this app, i just wanted to create a more interesting
 
 
 ## Windows Release
-Of course you could run it with python directly, but if youre like ma and want a exe file:
+Of course you could run it with python directly (just download the project and run the AutoTrafficRadar.py, but if youre like me and want a exe file:
 You can download a working version for windows under the release section. (zip file containing the exe + a folder named "_internal" - you need both in the same directory)
 Just unpack the zip file to a folder and run the exe. 
 BUT: because MS Defender thinks its malware (atleast mine does, i guess because of a lacking signature), heres a description how you can create the *.exe file on your own if you dont trust me :)
